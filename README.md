@@ -2,15 +2,10 @@
 Income Spreadsheet designed with MN CCAP workers in mind
 
 Can handle multiple different scenarios, including:
-
 •	Standard Earned income and hours by pay period.
-
 •	Earned income by Year-to-Date – from either year start or within a date range.
-
 •	Calculating Unemployment Insurance exhaustion date.
-
 •	Child Support, with scripting to separate dates from dollars if copied and pasted from PRISM together.
-
 •	Expenses.
 
 Additional features include:
